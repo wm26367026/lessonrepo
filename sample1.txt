@@ -27,3 +27,4 @@
 		xx:xx TOKYO
 		 Kyoto Tour
 		(ACCOMODATION) XXXX
+		xx:xx Tokyo
